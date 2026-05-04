@@ -1,2 +1,2 @@
-"Yow!"
-"Solved an issue"
+"Welcome!"
+"New branch p "
