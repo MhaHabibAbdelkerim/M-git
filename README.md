@@ -1,2 +1,2 @@
-"Hello!"
-"Change to README"
+"Yow!"
+"Solved an issue"
